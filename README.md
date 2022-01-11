@@ -32,8 +32,6 @@
 [![TharinduLala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduLala&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
-
 CSS          11 hrs 43 mins  ████████████████▓░░░░░░░░   67.06 % 
 HTML         5 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.91 % 
 Java         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
