@@ -11,7 +11,7 @@
 - 📚 currently learning **Web Technologies**
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TharinduLala.TharinduLala&left_color=purple&right_color=gray) [![GitHub followers](https://img.shields.io/github/followers/TharinduLala.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TharinduLala?tab=followers) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TharinduLala.TharinduLala&left_color=purple&right_color=gray) [![GitHub followers](https://img.shields.io/github/followers/TharinduLala.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TharinduLala?tab=followers) [![wakatime](https://wakatime.com/badge/user/13e3193a-8e05-4f6c-8772-628c675777db.svg)](https://wakatime.com/@13e3193a-8e05-4f6c-8772-628c675777db)
 
 
 
@@ -38,3 +38,4 @@ Markdown   23 mins         ▒░░░░░░░░░░░░░░░░�
 Java       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
+
