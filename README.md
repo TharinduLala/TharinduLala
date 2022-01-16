@@ -32,10 +32,10 @@
 [![TharinduLala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduLala&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-CSS        12 hrs 49 mins  ███████████████░░░░░░░░░░   60.57 % 
-HTML       7 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.04 % 
-Markdown   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Java       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+CSS        11 hrs 56 mins  ██████████████▓░░░░░░░░░░   59.29 % 
+HTML       7 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.20 % 
+Markdown   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Java       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
