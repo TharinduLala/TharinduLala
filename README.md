@@ -32,8 +32,10 @@
 [![TharinduLala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduLala&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-HTML             10 mins         ██████████████▓░░░░░░░░░░   58.20 % 
-Dart             7 mins          ██████████▒░░░░░░░░░░░░░░   41.80 % 
+HTML             45 mins         █████████████████▓░░░░░░░   70.46 % 
+JavaScript       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Dart             7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 <!--END_SECTION:waka-->
 
