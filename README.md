@@ -32,9 +32,9 @@
 [![TharinduLala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduLala&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  <img alt="Tharindu Lala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduLala&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 <!--START_SECTION:waka-->
 ```text
-HTML             13 hrs 10 mins  ████████████████████████▓   99.08 % 
-Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+HTML             12 hrs 53 mins  ████████████████████████▓   99.06 % 
+Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
 
