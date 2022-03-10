@@ -33,12 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-JavaScript       7 hrs 30 mins   ███████████████████▓░░░░░   78.95 %
-HTML             1 hr 53 mins    █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Java             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript       8 hrs 11 mins   ████████████████████░░░░░   80.42 %
+HTML             1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
