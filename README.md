@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
 JavaScript       8 hrs 7 mins    ███████████████████▓░░░░░   78.47 %
 HTML             2 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
