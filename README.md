@@ -33,10 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
-HTML             22 mins         ██████████████████░░░░░░░   72.59 %
-JavaScript       8 mins          ███████░░░░░░░░░░░░░░░░░░   27.40 %
+HTML             31 mins         ███████████████████▓░░░░░   78.43 %
+JavaScript       8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
