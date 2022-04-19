@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
-JavaScript   1 hr 23 mins    ████████████████████████░   96.02 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Java   1 hr 41 mins    ████████████████████████▒   96.67 %
+HTML   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+SQL    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
