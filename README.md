@@ -33,7 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 30 July 2022 - To: 06 August 2022
+
+JavaScript   14 hrs 7 mins   ███████████████████▒░░░░░   76.94 %
+CSS          4 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
