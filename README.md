@@ -30,12 +30,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![TharinduLala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharinduLala&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  <img alt="Tharindu Lala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduLala&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
