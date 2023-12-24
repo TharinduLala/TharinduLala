@@ -7,8 +7,7 @@
 
 
 
-- 🏫 currently learning @ **IJSE-Panadura**
-- 📚 currently learning **Web Technologies**
+- 🏫 currently learning @ **Institute of Technology, University of Moratuwa**
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TharinduLala.TharinduLala&left_color=purple&right_color=gray) [![GitHub followers](https://img.shields.io/github/followers/TharinduLala.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/TharinduLala?tab=followers)
